@@ -1,0 +1,6 @@
+{
+  "name": "Mentor Subscription Platform",
+  "description": "An exceptional mentor subscription platform with tiered memberships, paywalls, automated scheduling, a resource vault, community forum, and AI-powered mentor direct Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
